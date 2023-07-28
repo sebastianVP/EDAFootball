@@ -12,3 +12,8 @@ Este mini-proyecto busca desarrollar las siguientes tareas:
 	- Streamlit
 	- Pandas
 	- matplotlib
+
+El link de datos es el siguiente:
+
+https://www.pro-football-reference.com/years/2022/rushing.htm 
+
